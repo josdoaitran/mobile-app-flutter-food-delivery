@@ -1,4 +1,4 @@
-# mobile-app-flutter-food-delivery
+# mobile-app-react-native-food-delivery
 We are going to build example app for automated testing course.
 
 Using: https://expo.dev/

@@ -24,3 +24,5 @@ Using: https://expo.dev/
 npm i -g expo-cli
 npx create-expo-app food-delivery
 ```
+
+Run this command to run app `expo start`

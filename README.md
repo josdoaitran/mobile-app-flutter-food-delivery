@@ -24,12 +24,16 @@ Using: https://expo.dev/
 npm i -g expo-cli
 npx create-expo-app food-delivery
 ```
-Install dependiencies:
+- Install dependiencies:
 ```
 npx expo install react-dom react-native-web @expo/webpack-config
 ```
 
-Run this command to run app `expo start`
+- Run this command to run app `expo start`
+
+- Start app on mobile devices: 
++ iOS Simulator: https://docs.expo.dev/workflow/ios-simulator/
++ Android: https://docs.expo.dev/workflow/android-studio-emulator/
 
 ## Library in Food Delivery app:
 - https://www.npmjs.com/package/tailwindcss-react-native
